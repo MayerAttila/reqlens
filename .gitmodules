@@ -1,12 +1,12 @@
 [submodule "reqlens-node"]
 	path = reqlens-node
-	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-node
+	url = https://github.com/MayerAttila/reqlens-node.git
 [submodule "reqlens-api"]
 	path = reqlens-api
-	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-api
+	url = https://github.com/MayerAttila/reqlens-api.git
 [submodule "reqlens-web"]
 	path = reqlens-web
-	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-web
+	url = https://github.com/MayerAttila/reqlens-web.git
 [submodule "reqlens-examples"]
 	path = reqlens-examples
-	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-examples
+	url = https://github.com/MayerAttila/reqlens-examples.git
