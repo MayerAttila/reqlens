@@ -1,0 +1,12 @@
+[submodule "reqlens-node"]
+	path = reqlens-node
+	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-node
+[submodule "reqlens-api"]
+	path = reqlens-api
+	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-api
+[submodule "reqlens-web"]
+	path = reqlens-web
+	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-web
+[submodule "reqlens-examples"]
+	path = reqlens-examples
+	url = file:///C:/Users/mayer/OneDrive/Desktop/fusi/reqlens-examples
