@@ -1,0 +1,15 @@
+#!/bin/sh
+set -eu
+
+packages="
+reqlens-api
+reqlens-node
+reqlens-web
+"
+
+for package in $packages; do
+  if [ -f "$package/package.json" ]; then
+    echo "Running typecheck in $package..."
+    (cd "$package" && npm run typecheck)
+  fi
+done
